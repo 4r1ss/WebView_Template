@@ -12,7 +12,7 @@
 
 - Update your Web Page link :
 
-```  webView.loadUrl("https://github.com/4r1ss"); ```  
+```webView.loadUrl("https://github.com/4r1ss"); ```  
 
 > Line 18 , MainActivity.java
 
